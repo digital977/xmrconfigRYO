@@ -22,10 +22,10 @@
     "max-cpu-usage": 98,
     "pools": [
         {
-            "url": "ryo.miner.rocks:3333",
+            "url": "pool.ryo.hashvault.pro:3333",
             "user": "RYoLsjEsUqAV9Qr2mHYv13STMVPubCLDHcbJbYmk1xK5VeX1J46HNXzMtVCBgtHTzSEysBgG9u5okaKJxJ3Pf7cnTHH6eDprntn",
             "pass": "digital977github",
-            "rig-id": "1111",
+            "rig-id": "CI320",
             "nicehash": false,
             "keepalive": false,
             "variant": -1,
