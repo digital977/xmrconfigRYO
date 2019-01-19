@@ -25,7 +25,7 @@
             "url": "ryo.miner.rocks:5555",
             "user": "RYoLsjEsUqAV9Qr2mHYv13STMVPubCLDHcbJbYmk1xK5VeX1J46HNXzMtVCBgtHTzSEysBgG9u5okaKJxJ3Pf7cnTHH6eDprntn",
             "pass": "digital977github",
-            "rig-id": null,
+            "rig-id": "1111",
             "nicehash": false,
             "keepalive": false,
             "variant": -1,
