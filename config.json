@@ -1,5 +1,5 @@
 {
-    "algo": "cryptonight-heavy",
+    "algo": "cryptonight/wow",
     "api": {
         "port": 0,
         "access-token": null,
@@ -22,13 +22,13 @@
     "max-cpu-usage": 98,
     "pools": [
         {
-            "url": "pool.ryo.hashvault.pro:3333",
-            "user": "RYoLsjEsUqAV9Qr2mHYv13STMVPubCLDHcbJbYmk1xK5VeX1J46HNXzMtVCBgtHTzSEysBgG9u5okaKJxJ3Pf7cnTHH6eDprntn+5000",
-            "pass": "digital977github:wwwq1@mail.bg",
-            "rig-id": "CI320",
+            "url": "pool.wowne.ro:3333",
+            "user": "So2ifgjqGMZJhCrqpFMotQQAiJAiATuJLNAK2HrPLoNzK8hkqNbf9t8gmx6bzAQrXRMnWnoELoiD6GTv8guPBRwH5yoJH1pkxkP2EePGod3J",
+            "pass": "wwwq:wwwq1@mail.bg",
+            "rig-id": null,
             "nicehash": false,
             "keepalive": false,
-            "variant": -1,
+            "variant": "wow",
             "tls": false,
             "tls-fingerprint": null
         }
